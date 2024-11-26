@@ -2,6 +2,10 @@
 
 Este repositório é destinado aos exercicios do workshop de github
 
-### Titulo
+### Titulo novo alterado
 
-Esta alteração foi feita localmente no meu laptop
+Mudanças que eu fiz
+
+adicionei funcionalidade x
+
+assinado dev.
